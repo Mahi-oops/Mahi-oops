@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Mahesh Avula 👋<br><br>DevOps Engineer specializing in Cloud & Infrastructure Automation, with a<br>foundation in Linux, networking, and 24/7 production support across<br>high-availability, mission-critical environments.<br><br>🔄 Transitioning from Electronics Engineering into Cloud & DevOps — bringing<br>   a strong hardware, networking, and systems-reliability background into<br>   cloud-native infrastructure and automation.<br><br>🚀 Featured project: End-to-end DevOps pipeline on AWS EKS — Terraform-provisioned<br>   infrastructure, CircleCI for build/test/image push, GitOps deployment via<br>   ArgoCD, and Prometheus/Grafana for monitoring. Zero-downtime rolling<br>   updates, private subnets behind an ALB.<br><br>🔧 Tools I work with: AWS (EC2, VPC, IAM, S3, EKS) · Docker · Kubernetes ·<br>   Terraform · Jenkins · ArgoCD · CircleCI · Git/GitHub · Linux<br><br>📊 Monitoring & Observability: Prometheus, Grafana, log analysis, system<br>   diagnostics<br><br>🛠 Background: Currently an Infrastructure & Production Support engineer<br>   maintaining 99.9% uptime across mission-critical government and energy-sector<br>   systems — bringing real incident-response and reliability experience into<br>   my DevOps practice.<br><br>🌱 Actively building toward full-time DevOps ownership through applied<br>   CI/CD, containerization, and IaC.<br><br>📫 Reach me: avula2302@gmail.com · linkedin.com/in/mahesh-avula-2093a321a
 
-<!--
-**Mahi-oops/Mahi-oops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahesh Avula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avula2302@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MAHI-OOPS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MAHI-OOPS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MAHI-OOPS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=MAHI-OOPS&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
